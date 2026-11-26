@@ -1,0 +1,17 @@
+# Datos del despacho y perfil del navegador: nunca subir
+datos/
+Copias/
+DespachoVentana/
+Documentos generados/
+Instalador/
+
+# Ajustes locales de cada equipo
+usuario.txt
+carpeta.txt
+tareas-avisadas.json
+no-abrir-al-iniciar.txt
+*.lnk
+
+# El ejecutable va en Releases, no en el repositorio
+*.exe
+*.zip
